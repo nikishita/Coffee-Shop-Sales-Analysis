@@ -65,6 +65,6 @@ The goal is to help stakeholders better understand key sales trends, product per
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Sales Analysis Dashboard  
-![Sales Overview Dashboard](https://github.com/nikishita/Coffee-Shop-Sales-Analysis/blob/main/COFFEE%20SALES%20DASHBOARD.png).
+![Sales Overview Dashboard](https://github.com/nikishita/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis%20.png).
 
 
